@@ -10,7 +10,7 @@
 - 💻 In 2020, I decided to leave Marie Curie after being offered three jobs
 - 💻 Unfortunately, the accepted offer was pulled due to the pandemic
 - 💻 I had a virtual farewell, and started interviewing virtually. Within a month, I was offered four more jobs
-- 💻 I joined the marketing team at global cyersecurity company, Mimecast (NASDAQ); I was onboarded remotely due to the lockdown!
+- 💻 I joined the marketing team at global cyersecurity company, Mimecast (NASDAQ); I was onboarded during the lockdown!
 - 💻 Despite the tech stack being identical to that of Marie Curie's, I played a key role, taking on more complex projects
 - 💻 Involved in suggesting ways to improve how we delivered as a team, writing job specs, CV reviewing & interviewing
 - 💻 My work was recognised by the senior management within the Global Marketing department (Q2 Quarterly Rockstar)
