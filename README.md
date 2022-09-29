@@ -11,3 +11,5 @@ In 2020, I decided to leave Marie Curie after being offered three jobs. Unfortun
 
 Interests: 
 Programming, Web Development, Clean Code, Relational Databases, Performance Optimization, Marketing Technology (CMS Development), Spreadsheet Development and Web Application Security
+
+-->
