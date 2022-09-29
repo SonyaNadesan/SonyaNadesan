@@ -1,10 +1,23 @@
 ### Hi there 👋
 
-I began my journey in computing at Kingston University in 2014 where I made good progress and was offered my first ever role as Academic Mentor and later as a Teaching Assistant. I graduated with a First Class in Software Engineering and was selected along with my twin sister to give the Vote of Thanks during our graduation ceremony. 
+# Education
+- 🎓 Studied Software Engineering at Kingston University from September 2014
+- 🎓 Worked as an Academic Mentor and later, as a Teaching Assistant at Kingston University
+- 🎓 Graduated with a First Class Hons and was selected to give the Vote of Thanks at our graduation ceremony
 
-Since then, I have worked in the product team at GenSight, working on legacy systems, as well as organising fundraising events for Save The Children and Cancer Research UK (CRUK). In early 2019, I joined the Digital Marketing Team at leading charity, Marie Curie, where I developed skills and knowledge that were more relevant to modern software development. That year, I was shortlisted in The Future Stars of Tech (Developer Category, 2019).
+# Work Experience & Achievements Post-University
+💻 Kick-started my career at GenSight in July 2017, mainly working on spreadsheet development and legacy web applications (MS Excel, VBA, VB.NET)
+💻 In February 2019, I joined the digital marketing team at leading charity, Marie Curie, where I developed skills that were more relevant to modern software development
+💻 Technologies: C#, ASP.NET MVC, Entity Framework, LINQ, ASP.NET Identity and EpiServer CMS Development
+💻 I gained good knowledge of various design patterns and demonstrate my understanding of SOLID Principles
+💻 Shortlisted in the Future Stars of Tech - Developer Category (2019)
 
-In 2020, I decided to leave Marie Curie after being offered three jobs. Unfortunately, the accepted offer was pulled a couple of days before the agreed start date due to the pandemic. I had a virtual farewell, and started interviewing virtually. Within a month, I was offered four more jobs and decided to join global cybersecurity company, Mimecast (NASDAQ:MIME), working for the Digital Marketing team. I was onboarded remotely and played a key role, taking on major projects as well as suggesting ways to improve how we delivered as a team. I thoroughly enjoyed my time with Mimecast and my work was recognised by the senior management within the Global Marketing department. In July 2021, I joined Investment Bank, Jefferies (NYSE:JEF) as a Full-Stack Developer in the treasury team and managed to hit-the-ground-running with Angular, despite having little experience in front-end development. I am currently building on my knowledge of SQL as well as other data technologies.
+In 2020, I decided to leave Marie Curie after being offered three jobs. Unfortunately, the accepted offer was pulled a couple of days before the agreed start date due to the pandemic. I had a virtual farewell, and started interviewing virtually. Within a month, I was offered four more jobs
 
-Interests: 
-Programming, Web Development, Clean Code, Relational Databases, Performance Optimization, Marketing Technology (CMS Development), Spreadsheet Development and Web Application Security
+💻 I joined the digital marketing team at global cyersecurity company, Mimecast (NASDAQ); I was onboarded remotely due to the lockdown!
+💻 Despite the tech stack being identical to that of Marie Curie's, I played a key role, taking on more complex projects
+💻 Involved in suggesting ways to improve how we delivered as a team, recruitment process (writing job specs, CV reviewing & interviewing)
+💻 I thoroughly enjoyed my time with Mimecast and my work was recognised by the senior management within the Global Marketing department (Q2 Quarterly Rockstar)
+💻 In July 2021, I secured a new role and met my colleagues from Mimecast in-person, at a park in London for the first time at my leaving-do!
+💻 I joined Investment Bank, Jefferies (NYSE:JEF) as a Full-Stack Developer in the treasury team and managed to hit-the-ground-running with Angular
+💻 I work with technologies such as C#, writing APIs, as well as Angular and currently expanding my knowledge of SQL and other data technologies
