@@ -16,3 +16,4 @@
 - 💻 My work was recognised by the senior management within the Global Marketing department (Q2 Quarterly Rockstar)
 - 💻 In July 2021, I secured a new role and met my colleagues from Mimecast in-person, at a park, for the first time at my leaving-do!
 - 💻 I joined Investment Bank, Jefferies (NYSE:JEF) as a Full-Stack Developer in the treasury team
+- 💻 As well as learning new technologies, I am starting to take on other responsibilities such as mentoring and presenting
