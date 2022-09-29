@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**SonyaNadesan/SonyaNadesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I began my journey in computing at Kingston University in 2014 where I made good progress and was offered my first ever role as Academic Mentor and later as a Teaching Assistant. I graduated with a First Class in Software Engineering and was selected along with my twin sister to give the Vote of Thanks during our graduation ceremony. 
 
 Since then, I have worked in the product team at GenSight, working on legacy systems, as well as organising fundraising events for Save The Children and Cancer Research UK (CRUK). In early 2019, I joined the Digital Marketing Team at leading charity, Marie Curie, where I developed skills and knowledge that were more relevant to modern software development. That year, I was shortlisted in The Future Stars of Tech (Developer Category, 2019).
@@ -11,5 +8,3 @@ In 2020, I decided to leave Marie Curie after being offered three jobs. Unfortun
 
 Interests: 
 Programming, Web Development, Clean Code, Relational Databases, Performance Optimization, Marketing Technology (CMS Development), Spreadsheet Development and Web Application Security
-
--->
