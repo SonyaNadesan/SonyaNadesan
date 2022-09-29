@@ -1,4 +1,4 @@
-### Welcome to my GitHub - Scroll Down to View Repositories! 👋
+### Welcome to my GitHub! 👋
 
 - 🎓 Studied Software Engineering at Kingston University from September 2014
 - 🎓 Worked as an Academic Mentor and later, as a Teaching Assistant at Kingston University
