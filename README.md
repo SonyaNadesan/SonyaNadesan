@@ -4,8 +4,9 @@
 - 🎓 Worked as an Academic Mentor and later, as a Teaching Assistant at Kingston University
 - 🎓 Graduated with a First Class Hons and was selected to give the Vote of Thanks at our graduation ceremony
 - 💻 Kick-started my career at GenSight (2017 - 2019), mainly working on spreadsheet development and legacy web applications
-- 💻 I joined the marketing team at leading charity, Marie Curie - developing skills that were more relevant to modern deevelopment
+- 💻 I joined the marketing team at leading charity, Marie Curie - developing skills that were more relevant to modern development
 - 💻 Shortlisted in the Future Stars of Tech - Developer Category (2019)
+- 💻 Continued to mentor friends who were aspiting Software Engineers, as well as providing feedback on their CVs
 - 💻 In 2020, I decided to leave Marie Curie after being offered three jobs; accepted offer was pulled due to the pandemic
 - 💻 I had a virtual farewell, and started interviewing virtually. Within a month, I was offered four more jobs
 - 💻 I joined the marketing team at global cyersecurity company, Mimecast (NASDAQ); I was onboarded during the lockdown!
@@ -15,3 +16,4 @@
 - 💻 In July 2021, I secured a new role and met my colleagues from Mimecast in-person, at a park, for the first time at my leaving-do!
 - 💻 I joined Investment Bank, Jefferies (NYSE:JEF) as a Full-Stack Developer in the treasury team (my first-ever full-stack role!)
 - 💻 As well as learning new technologies, I am starting to take on other responsibilities such as mentoring and presenting
+- 💻 Contributions to various charities, mainly Cancer Research UK and British Heart Foundation
